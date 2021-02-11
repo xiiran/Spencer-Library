@@ -1,3 +1,7 @@
+# Differences to original project
+- Changed i2s channel format to only left, to make sound recordings work when compiling the library with PlatformIO
+
+
 # Spencer Library
 > Arduino library for programming Spencer, your DIY voice assistant.
 
